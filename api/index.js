@@ -27,6 +27,8 @@ app.use(cookieParser());
 
 app.listen(3000, () => {
   console.log('Server is running on port 3000!');
+  // console.log("MongoDB URI:", process.env.MONGO);
+
 });
 
 app.use('/api/user', userRouter);
