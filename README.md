@@ -45,7 +45,11 @@ This project was developed using the following technologies:
 - [Bcrypt.js](https://www.npmjs.com/package/bcryptjs) - Password hashing for user security
 - [Nodemailer](https://nodemailer.com/about/) - Email service for sending notifications
 
-
+##  Screenshots 
+![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/3be44cc9-5942-4a1d-a4ee-2627287d8e8a)
+---- -
+![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/4fb926f6-fb1d-45a8-9d69-3ea8313d8b71)
+---- -
 ## Author
 
 - Github: [Aditya Raj](https://github.com/RajAditya01)
