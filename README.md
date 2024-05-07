@@ -3,6 +3,12 @@
 Welcome to Real RentalHub! This project is a cutting-edge real estate marketplace built from scratch using the MERN stack. </h5>
 <br/>
 
+  * [Key Features](#key-features)
+  * [Technologies used](#technologies-used)
+  * [📸 Screenshots](#screenshots)
+  * [Author](#author)
+
+
 ## Overview
 
 Real RentalHub is a full-stack application designed to revolutionize the way people find and list properties for rent. With a sleek and intuitive interface, it provides users with a seamless experience for discovering, renting, and managing rental properties.
