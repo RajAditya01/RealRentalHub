@@ -110,7 +110,13 @@ export const getListings = async (req, res, next) => {
       .skip(startIndex);
 
     return res.status(200).json(listings);
-  } catch (error) {
-    next(error);
+  } 
+  // catch (error) {
+  //   next(error);
+  // }
+  catch (error) {
+    // Handle the error appropriately
+    console.error('Error fetching listings:', error);
+    next(error); // Pass the error to the error handling middleware
   }
 };
