@@ -3,6 +3,12 @@
 Welcome to Real RentalHub! This project is a cutting-edge real estate marketplace built from scratch using the MERN stack. </h5>
 <br/>
 
+  * [Key Features](#key-features)
+  * [Technologies used](#technologies-used)
+  * [📸 Screenshots](#screenshots)
+  * [Author](#author)
+
+
 ## Overview
 
 Real RentalHub is a full-stack application designed to revolutionize the way people find and list properties for rent. With a sleek and intuitive interface, it provides users with a seamless experience for discovering, renting, and managing rental properties.
@@ -54,6 +60,9 @@ This project was developed using the following technologies:
 ---- -
 ![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/e0cd4c5c-3a4b-4a42-8416-0c1dc26dc42c)
 ---- -
+![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/53c4b331-c0b5-4d1c-9bbc-b48e12c59fba)
+---- -
+![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/6e2da65a-6327-40ac-9b7d-e31b062ebf55)
 
 ## Author
 
