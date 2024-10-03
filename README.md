@@ -56,6 +56,8 @@ This project was developed using the following technologies:
 ---- -
 ![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/c30316c0-490c-4f59-8ca1-0bc7720e6c6f)
 ---- -
+![image](https://github.com/user-attachments/assets/81dd0b7c-3b25-482c-bc86-e68ed9ae3a47)
+---- -
 ![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/98a4cf24-ad48-4e66-aee7-7f29608c1054)
 ---- -
 ![image](https://github.com/RajAditya01/RealRentalHub/assets/101439988/e0cd4c5c-3a4b-4a42-8416-0c1dc26dc42c)
