@@ -4,19 +4,18 @@ import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import About from './pages/About';
 import Profile from './pages/Profile';
-import Header from './components/Header';
 import PrivateRoute from './components/PrivateRoute';
 import CreateListing from './pages/CreateListing';
 import UpdateListing from './pages/UpdateListing';
 import Listing from './pages/Listing';
 import Search from './pages/Search';
-
+import Layout from './Layout';
 export default function App() {
   return (
     <BrowserRouter>
-      <Header />
       <Routes>
-        <Route path='/' element={<Home />} />
+       <Route path='/' element={<Layout/>}>
+       <Route index element={<Home />} />
         <Route path='/sign-in' element={<SignIn />} />
         <Route path='/sign-up' element={<SignUp />} />
         <Route path='/about' element={<About />} />
@@ -31,6 +30,7 @@ export default function App() {
             element={<UpdateListing />}
           />
         </Route>
+       </Route>
       </Routes>
     </BrowserRouter>
   );
